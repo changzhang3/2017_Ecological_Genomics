@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Readme\"\nauthor: \"Antdrew D. Nguyen\"\ndate: \"2017-01-12\"\noutput: html_document\n---\n\nHere is my online notebook\n\n1st assignment: [Creating maps in R](RasterPCA_demo.html)",
+    "created" : 1484269363635.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2626224512",
+    "id" : "F2204E3F",
+    "lastKnownWriteTime" : 1484269459,
+    "last_content_update" : 1484269459968,
+    "path" : "~/Teaching/2017_Ecological_Genomics/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
