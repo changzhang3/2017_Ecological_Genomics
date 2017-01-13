@@ -34,12 +34,12 @@ It includes this readme file, which I turned into a website you see here, but it
 ![](URL)
 ```
 To get a URL in (R)markdown:
-  * go to your github repository and click **"Issues"**    
-  * Click **"New"**    
-  * Include a title (Pictures); click and drag any image you'd like into the comment section
-  * Click **"Submit New Issue"** 
-  * You will see the image, right click it and copy the URL.    
-  
+    * go to your github repository and click **"Issues"**    
+    * Click **"New"**    
+    * Include a title (Pictures); click and drag any image you'd like into the comment section
+    * Click **"Submit New Issue"** 
+    * You will see the image, right click it and copy the URL.     
+
 3. To include a table, it is best if you format it first as a csv(comma separated values). (Note, if on a mac, make sure the file type is unicode and unix). With the knitr package, you can generate tables easily from the csv. Here is an example: 
 
 Grab a dataset real fast
