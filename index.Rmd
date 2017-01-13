@@ -65,3 +65,7 @@ knitr::kable(dat)
 ## Final Project    
 
 Below are the set of scripts for my final project.
+
+
+### [good way to annotate your project](http://stackoverflow.com/questions/19699059/representing-directory-file-structure-in-markdown-syntax)
+
