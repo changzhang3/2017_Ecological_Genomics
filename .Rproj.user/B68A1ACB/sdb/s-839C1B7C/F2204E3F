@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Ecological Genomics readme file\"\nauthor: \"Antdrew D. Nguyen\"\ndate: \"2017-01-12\"\noutput: \n  html_document:\n    theme: spacelab\n    toc: yes\n    toc_depth: 3\n---\n\n## Welcome to the 2017 Ecological Genomics course! \n\n### Things you'll need to download:\n1. [R](https://www.r-project.org/) and [Rstudio](https://www.rstudio.com/) (be sure to install and load the \"knitr\"\" package)\n2. Create a [github](https://github.com/) account and download github [desktop](https://desktop.github.com/)\n\nAccess to my whole project can be found on my [github](https://github.com/adnguyen/2017_Ecological_Genomics).\n\nIt includes this readme file, which I turned into a website you see here, but it also logs research activities on [my online notebook](https://github.com/adnguyen/2017_Ecological_Genomics/blob/master/Online_notebook.md).\n\n### Common code you'll need to word process in (R)markdown  \n\n1. To embed a link, all you need is the URL, implemented in the following way:   \n```\n[hyperlinked words](URL)\n```\n\n2. To embed an image, you'll need a URL of the image, implemented similarly as above:\n```\n![](URL)\n```\nTo get a URL in (R)markdown:\n  * go to your github repository and click **\"Issues\"**    \n  * Click **\"New\"**    \n  * Include a title (Pictures); click and drag any image you'd like into the comment section\n  * Click **\"Submit New Issue\"** \n  * You will see the image, right click it and copy the URL.    \n  \n3. To include a table, it is best if you format it first as a csv(comma separated values). (Note, if on a mac, make sure the file type is unicode and unix). With the knitr package, you can generate tables easily from the csv. Here is an example: \n\nGrab a dataset real fast\n```{r}\n#packages for reading in data\nlibrary(data.table)\n\n#grab dataset online\ndat<-fread(\"https://raw.githubusercontent.com/adnguyen/HelmsCahan_CBP-partA_2016/master/Script_Analyses/Sampling_sites_table.csv\")\n\n#making a table\nknitr::kable(dat)\n```\n\n\n\n\n  \n## Assignments   \n1st assignment: [Creating maps in R](RasterPCA_demo.html)\n\n\n## Final Project    \n\nBelow are the set of scripts for my final project.\n",
+    "created" : 1484269363635.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2187294179",
+    "id" : "F2204E3F",
+    "lastKnownWriteTime" : 1484271334,
+    "last_content_update" : 1484271334773,
+    "path" : "~/Teaching/2017_Ecological_Genomics/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
