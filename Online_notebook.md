@@ -3,7 +3,10 @@
 ### Author: ANTdrew D. Nguyen     
 ### Ecological Genomics:   
 
-## Overall Description of notebook   
+## Overall Description of notebook      
+
+fill in your description here!
+
 
 ## Date started: (year-month-day)   
 ## Date end:   (year-month-day)    
@@ -13,7 +16,19 @@ Science should be reproducible and one of the best ways to achieve this is by lo
 
 ### Helpful features of the notebook     
 
-It is absolutely critical for your future self and others to follow your work. The notebook is set up with a series of internal links from the table of contents. All notebooks should have a table of contents which has the "Page", date, and title (information that allows the reader to understand your work). Also, one of the perks of keeping all activities in a single document is that you can search and find elements quickly. You can document anything you'd like, aside from logging your research activities. For example, feel free to log all/any ideas for your research project([example](https://github.com/adnguyen/Notebooks_and_Protocols/blob/master/2016_notebook.md#page-39-2016-06-13-post-doc-project-idea-assessing-current-impacts-of-climate-change-in-natural-populations)) as an entry, or write down notes for a paper([example](https://github.com/adnguyen/Notebooks_and_Protocols/blob/master/2016_notebook.md#id-section36). Lastly, you can share specific entries because of the three "#" automatically creates a link when the notebook renders on github.      
+**It is absolutely critical for your future self and others to follow your work.**     
+
+* The notebook is set up with a series of internal links from the table of contents.    
+* All notebooks should have a table of contents which has the "Page", date, and title (information that allows the reader to understand your work).     
+* Also, one of the perks of keeping all activities in a single document is that you can **search and find elements quickly**.     
+* You can document anything you'd like, aside from logging your research activities. For example:
+	* feel free to log all/any ideas for your research project([example](https://github.com/adnguyen/Notebooks_and_Protocols/blob/master/2016_notebook.md#page-39-2016-06-13-post-doc-project-idea-assessing-current-impacts-of-climate-change-in-natural-populations)) as an entry,     
+	* or write down notes for a paper([example](https://github.com/adnguyen/Notebooks_and_Protocols/blob/master/2016_notebook.md#id-section36).      
+
+*Lastly, you can share specific entries because of the three "#" automatically creates a link when the notebook renders on github.      
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.  
 
 
 ### Table of contents for 60 entries (Format is *Page: Date(with year-month-day). Title*)        
