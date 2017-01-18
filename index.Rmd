@@ -53,7 +53,11 @@ dat<-fread("https://raw.githubusercontent.com/adnguyen/HelmsCahan_CBP-partA_2016
 #making a table
 knitr::kable(dat)
 ```
-
+Lets look at the relationship between lat and lon
+```{r}
+str(dat)
+plot(dat$Latitude,dat$Longitude)
+```
 
 
 
