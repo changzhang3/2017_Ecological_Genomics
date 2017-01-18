@@ -43,7 +43,33 @@ dat<-fread("https://raw.githubusercontent.com/adnguyen/HelmsCahan_CBP-partA_2016
 #making a table
 knitr::kable(dat)
 ```
-
+|  n|Locale                    |State |Site ID | Longitude| Latitude| Tmax|
+|--:|:-------------------------|:-----|:-------|---------:|--------:|----:|
+|  1|Notchview                 |MA    |NO      | -73.01277| 42.49833| 24.8|
+|  2|Smokey Mountains          |TN    |GP      | -83.49340| 35.63650| 25.0|
+|  3|Molly Bog                 |VT    |MB      | -72.64000| 44.50000| 25.3|
+|  4|Kennebec Highlands        |ME    |KH      | -69.92110| 44.56755| 25.9|
+|  5|Blue Ridge Parkway        |NC    |BP      | -81.95380| 35.92640| 26.0|
+|  6|Bradley                   |ME    |BR      | -68.51740| 44.98180| 26.0|
+|  7|Delaware State Forest     |PA    |DF      | -75.01010| 41.30233| 26.0|
+|  8|Harvard Forest            |MA    |HF      | -72.18980| 42.53130| 26.4|
+|  9|Merriman State Forest     |NH    |MM      | -71.13913| 44.11107| 26.5|
+| 10|Sebago Lake               |ME    |SE      | -70.58310| 43.92370| 26.6|
+| 11|Hickory State Park        |PA    |HP      | -75.71751| 41.02210| 26.8|
+| 12|Rugar Woods               |NY    |RW      | -73.48550| 44.49060| 26.8|
+| 13|Bear Brook State Park     |NH    |BE      | -71.34803| 43.09943| 27.1|
+| 14|Blackrock Mountains       |NY    |BM      | -74.02140| 41.40405| 27.1|
+| 15|East Woods                |VT    |EW      | -73.19690| 44.43970| 27.2|
+| 16|Albany Pine Bush          |NY    |AP      | -73.85635| 42.71930| 28.3|
+| 17|Bard College              |NY    |BA      | -73.91630| 42.01740| 28.8|
+| 18|Nockamixon State Park     |PA    |NK      | -75.25890| 40.43940| 29.1|
+| 19|William Penn State Forest |PA    |WP      | -76.07883| 39.72570| 29.3|
+| 20|Blackwater Creek Park     |VA    |LA      | -79.18100| 37.42110| 30.7|
+| 21|Ljiam Nature Center       |      |IJ      | -83.86400| 35.95570| 30.8|
+| 22|Knoxville                 |TN    |DW      | -83.94955| 35.91995| 30.9|
+| 23|Durham                    |NC    |RC      | -79.07720| 36.03640| 31.4|
+| 24|Uwharrie National Forest  |NC    |UN      | -79.97450| 35.36930| 31.7|
+| 25|Hitchcock Woods           |GA    |HW      | -81.73115| 33.55605| 33.1|
 
 
 
