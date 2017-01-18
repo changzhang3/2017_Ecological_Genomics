@@ -133,7 +133,7 @@ Science should be reproducible and one of the best ways to achieve this is by lo
 	3. Think about careful experimental design and statistical analysis---shown by reading papers   
 	4. Achive working knowledge and level of comfort for bioinformatics routines for ecological genomics studies   
 	
-### Melissa	  
+### Melissa background	  
 
 **Background, what drove Melissa and Steve to ecological genomics?**       
 
@@ -141,7 +141,26 @@ Melissa read a cool paper that scales from analyzing a few loci to the whole gen
 
 One figure popped out at her, FST (developed by Sewell Wright) histogram.   FST of 1= complete differentiation, FST of 0 = no diff. FST described as **Alleles in space**. From this histogram, Melissa was struck by how you can separate out neutral from selective ones.  
 
+Melissa has a data set with 96 sea stars and then the 16s microbiome. Would be cool to see if there is heritability in some bactera
 
+### Steve background   
+
+* Inspired by Yanis Antonivics (an **OG**)   
+* At the time, just so stories: **Adaptatationist programme**    
+	* Just go out and go by feeling in a natural history way and prescribe an adaptation story   
+	* Janis wrote a creed to quantify the operational relationahip between traits, environment, and genetics     
+* Yanis was on Steve's committee and Steve was interested in adaptation with respect to invasion biology because organisms need to respond to novel environments     
+	* Phenotypes can relate to the environment, but what is the genetic basis of local adaptation (in situ)? There are other confounding issues: demographic effects, plasticity     
+* Steve thinks about environment-phenotype-genetics triangle. Basically a path diagram that feeds back on each other.    
+	* Relationship between genes and phenotype ---GWAS (Genome wide association study)    
+	* Relationship between genetics and environment --- Fst, clines between allele frequencies and environment    
+* Invasion history is tough because of demographic history    
+* He decided to foucs on trees; large population size, straddle huge environmental gradients so the opportunity for selection is high   
+	* positive relationship between Growing season length and traits    
+	* Did a  recipricol transplant of different populations to identify the extent of local adaptation in large established common gardens    
+	* SK does GBS (genotype by sequencing)      
+	* Problem with field: validating key gene candidates       
+  
 
 ------
 <div id='id-section2'/>
