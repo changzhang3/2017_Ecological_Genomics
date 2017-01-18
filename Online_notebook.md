@@ -128,7 +128,12 @@ Science should be reproducible and one of the best ways to achieve this is by lo
 	* All evo and eco stuff; speciation, hybridization, local adaptation, genetic basis of local adaptation, genetic architecture of complex phenotypes, genes controlling host-pathogen evolutionary dynamics, pop structure, gene flow, epigenetics     
 	
 * Goals of the course!    
-	1. 
+	1. Learn how ecology and genomes shape each other   
+	2. Think creatively about major questions, and pose testable hypotheses to those questions using appropriate genomic data    
+	3. Think about careful experimental design and statistical analysis---shown by reading papers   
+	4. Achive working knowledge and level of comfort for bioinformatics routines for ecological genomics studies   
+	
+	
 
 
 
