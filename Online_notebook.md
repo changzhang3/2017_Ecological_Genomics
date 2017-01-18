@@ -148,16 +148,16 @@ Melissa has a data set with 96 sea stars and then the 16s microbiome. Would be c
 * Inspired by Yanis Antonivics (an **OG**)   
 * At the time, just so stories: **Adaptatationist programme**    
 	* Just go out and go by feeling in a natural history way and prescribe an adaptation story   
-	* Janis wrote a creed to quantify the operational relationahip between traits, environment, and genetics     
+	* Janis wrote a creed to quantify the operational relationship between traits, environment, and genetics     
 * Yanis was on Steve's committee and Steve was interested in adaptation with respect to invasion biology because organisms need to respond to novel environments     
 	* Phenotypes can relate to the environment, but what is the genetic basis of local adaptation (in situ)? There are other confounding issues: demographic effects, plasticity     
 * Steve thinks about environment-phenotype-genetics triangle. Basically a path diagram that feeds back on each other.    
 	* Relationship between genes and phenotype ---GWAS (Genome wide association study)    
 	* Relationship between genetics and environment --- Fst, clines between allele frequencies and environment    
 * Invasion history is tough because of demographic history    
-* He decided to foucs on trees; large population size, straddle huge environmental gradients so the opportunity for selection is high   
+* He decided to focus on trees; large population size, straddle huge environmental gradients so the opportunity for selection is high   
 	* positive relationship between Growing season length and traits    
-	* Did a  recipricol transplant of different populations to identify the extent of local adaptation in large established common gardens    
+	* Did a  reciprocal transplant of different populations to identify the extent of local adaptation in large established common gardens    
 	* SK does GBS (genotype by sequencing)      
 	* Problem with field: validating key gene candidates       
   
