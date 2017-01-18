@@ -32,7 +32,7 @@ Science should be reproducible and one of the best ways to achieve this is by lo
 
 
 ### Table of contents for 60 entries (Format is *Page: Date(with year-month-day). Title*)        
-* [Page 1: 2017-01-12](#id-section1). Title
+* [Page 1: 2017-01-18](#id-section1). First class; intros
 * [Page 2: 2016-6-16](#id-section2). Title 3
 * [Page 3:](#id-section3).
 * [Page 4:](#id-section4).
@@ -95,7 +95,42 @@ Science should be reproducible and one of the best ways to achieve this is by lo
 
 ------
 <div id='id-section1'/>
-### Page 1: 2016-07-08.  test
+### Page 1: 2016-07-18. Ecological genomics, first class
+
+**Steve and Melissa's intro**    
+* Steve: It is a young field, trying to establish it's own identity    
+	* Ecological genomics institute, KSU: emphasis on adaptation to environment   
+	* Gordon Research Conference: Integrating different levels of biological organization on **ANY SYSTEM**; approach and tool focused! Field going towards new data and new analytic techniques  
+	* Intro to eco genomics, oxford press; Using technology to address ecological issues such as nutrient cycling, population structure, life history vairation , trophic interaction, stress responess, and adpatation to environmental change   
+
+* DATA driven: next gen sequencing revolutionizes biology
+	* creats a new problem--large datasets!!! how to make sense? 
+	* not data limited and potentially computationally limited   
+
+* Where is the field headed    
+	* Molecular Ecology Journal(flagship journal representative o the field)  
+		* ALL systems:  corals, protists, daphnia, coral, lemurs, dandelions, steve studies trees 
+		* model organism constraint disappearing!   
+	* What types of questions are asked?  
+		* How do genes correspond with circadian rythm?  
+		* How does the microbiome influence the organism? 
+		* How does epigenetic variation influence evolutionary responses? or contribute to phenotypic variation?  
+		* What are the patterns of genetic diversity that can give us insights on population dynamics?  
+		* What are constraints and tradeoffs and genetic mechanisms of traits? 
+
+* Methods?   
+	* De novo genome assembly; sequencing a DNA book from scratch!!    
+		* RNA-seq; transcriptomic profiling     
+	* 16 s metagenomic sequencing      
+	* Rad-seq/GBS for estiamting population structure and genetic diversity     
+
+* Proccesses studied?    
+	* All evo and eco stuff; speciation, hybridization, local adaptation, genetic basis of local adaptation, genetic architecture of complex phenotypes, genes controlling host-pathogen evolutionary dynamics, pop structure, gene flow, epigenetics     
+	
+* Goals of the course!    
+	1. 
+
+
 
 
 ------
