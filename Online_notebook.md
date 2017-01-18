@@ -97,7 +97,7 @@ Science should be reproducible and one of the best ways to achieve this is by lo
 <div id='id-section1'/>
 ### Page 1: 2016-07-18. Ecological genomics, first class
 
-**Steve and Melissa's intro**    
+### **Steve and Melissa's intro**    
 * Steve: It is a young field, trying to establish it's own identity    
 	* Ecological genomics institute, KSU: emphasis on adaptation to environment   
 	* Gordon Research Conference: Integrating different levels of biological organization on **ANY SYSTEM**; approach and tool focused! Field going towards new data and new analytic techniques  
@@ -133,8 +133,13 @@ Science should be reproducible and one of the best ways to achieve this is by lo
 	3. Think about careful experimental design and statistical analysis---shown by reading papers   
 	4. Achive working knowledge and level of comfort for bioinformatics routines for ecological genomics studies   
 	
-	
+### Melissa	  
 
+**Background, what drove Melissa and Steve to ecological genomics?**       
+
+Melissa read a cool paper that scales from analyzing a few loci to the whole genome.   
+
+One figure popped out at her, FST (developed by Sewell Wright) histogram.   FST of 1= complete differentiation, FST of 0 = no diff. FST described as **Alleles in space**. From this histogram, Melissa was struck by how you can separate out neutral from selective ones.  
 
 
 
