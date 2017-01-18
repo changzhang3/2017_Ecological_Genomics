@@ -49,7 +49,7 @@ knitr::kable(dat)
 
   
 ## Assignments   
-1st assignment: [Creating maps in R](RasterPCA_demo.html)
+1st assignment: [Creating maps in R](RasterPCA_demo.md)
 
 
 ## Final Project    
