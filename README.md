@@ -57,5 +57,23 @@ knitr::kable(dat)
 Below are the set of scripts for my final project.
 
 
-### [good way to annotate your project](http://stackoverflow.com/questions/19699059/representing-directory-file-structure-in-markdown-syntax)
+## Organizing your project (repository)
 
+1. In the terminal, [install the tree command](https://rschu.me/list-a-directory-with-tree-command-on-mac-os-x-3b2d4c4a4827#.wk0u34bpj)
+	* You may have to install the [homebrew](http://brew.sh/)    
+2. use the tree command in the terminal
+
+```
+2017_Ecological_Genomics andrewnguyen$ tree
+.
+├── 2017_Ecological_Genomics.Rproj
+├── Online_notebook.md
+├── README.md
+├── RasterPCA_demo.Rmd
+├── RasterPCA_demo.html
+├── index.Rmd
+├── index.html
+└── index.pdf
+
+0 directories, 8 files
+```
