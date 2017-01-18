@@ -57,7 +57,7 @@ knitr::kable(dat)
 Below are the set of scripts for my final project.
 
 
-## Organizing your project (repository)
+## Displaying the organizational structure of your project (repository)
 
 1. In the terminal, [install the tree command](https://rschu.me/list-a-directory-with-tree-command-on-mac-os-x-3b2d4c4a4827#.wk0u34bpj)
 	* You may have to install the [homebrew](http://brew.sh/)    
