@@ -159,7 +159,7 @@ Melissa has a data set with 96 sea stars and then the 16s microbiome. Would be c
 	* positive relationship between Growing season length and traits    
 	* Did a  reciprocal transplant of different populations to identify the extent of local adaptation in large established common gardens    
 	* SK does GBS (genotype by sequencing)      
-	* Problem with field: validating key gene candidates       
+	* Problem with field: validating key gene candidates            
   
 
 ------
